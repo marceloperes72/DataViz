@@ -1,2 +1,2 @@
 # DataViz
-Funções com Visualização de Dados prontas para consumir
+Repositório de Visualização de dados com funções prontas para consumir
